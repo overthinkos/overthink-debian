@@ -20,4 +20,4 @@ Description: Overthink container management CLI
  Compose, build, deploy, and manage container boxes from a library of fully
  configurable candies. Ships the ov binary; apt auto-resolves its mandatory
  dependencies. Tailscale is NOT a dependency here (it is not in Debian main) —
- the ov layer supplies tailscale for Debian/Ubuntu via the tailscale apt repo.
+ the ov candy supplies tailscale for Debian/Ubuntu via the tailscale apt repo.
