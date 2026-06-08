@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
-# The packaged ov binary is prebuilt (copied into the source tree as ./ov by the
-# build.yml deb build_template) and installed via debian/overthink.install. There
+# The packaged charly binary is prebuilt (copied into the source tree as ./charly by the
+# build.yml deb build_template) and installed via debian/opencharly.install. There
 # is no compile step, no shared-lib scan, and no strip/dwz on the Go binary.
 %:
 	dh $@
