@@ -1,4 +1,4 @@
-# overthink-debian — native DEB packaging for `charly` (Debian + Ubuntu)
+# opencharly-debian — native DEB packaging for `charly` (Debian + Ubuntu)
 
 `debian/` builds the `opencharly` `.deb` (the `charly` CLI at `/usr/bin/charly`) for
 Debian and Ubuntu. ONE source serves both (Ubuntu inherits Debian's `deb`

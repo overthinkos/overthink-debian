@@ -1,7 +1,7 @@
 Source: opencharly
 Section: admin
 Priority: optional
-Maintainer: Andreas Trawoeger <atrawog@overthink.net>
+Maintainer: Andreas Trawoeger <atrawog@opencharly.ai>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.2
 Homepage: https://github.com/overthinkos/overthink
