@@ -24,4 +24,4 @@ every build is upgradeable.
 tailscale apt repo. All other mandatory deps are in Debian/Ubuntu main and
 auto-resolve.
 
-History lives in the superproject's `CHANGELOG.md`.
+History lives in this repo's `CHANGELOG/` (one file per month).
