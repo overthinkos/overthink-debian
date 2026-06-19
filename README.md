@@ -5,7 +5,8 @@ Debian and Ubuntu. ONE source serves both (Ubuntu inherits Debian's `deb`
 format).
 
 Consumed two ways, both through the SAME
-`build.yml distro.debian.format.deb.local_pkg.build_template`:
+`distro.debian.format.deb.local_pkg.build_template` in the embedded build
+vocabulary (`charly/charly.yml`):
 
 - **localpkg deploy** — `charly deploy` / `charly update` / `charly eval run` to a `target:
   vm` (or `target: local`) Debian/Ubuntu target builds this `.deb` on the host
