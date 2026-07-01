@@ -1,1 +1,2 @@
 charly usr/bin
+plugins/* usr/lib/charly/plugins
